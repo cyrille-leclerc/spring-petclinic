@@ -1,0 +1,9 @@
+export OPEN_TELEMETRY_AGENT_VERSION="1.3.1"
+export OPEN_TELEMETRY_DEPLOYMENT_ENVIRONMENT="staging"
+
+export OTEL_EXPORTER_OTLP_ENDPOINT="http://localhost:4317"
+
+# export ELASTIC_APM_SECRET_TOKEN="your-secret-token"
+# export OTEL_EXPORTER_OTLP_HEADERS="Authorization=Bearer $ELASTIC_APM_SECRET_TOKEN"
+
+
